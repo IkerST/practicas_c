@@ -8,3 +8,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(comparacion_char.out "comparacion_char.cpp")
 add_executable(mayor_suma_30.out "mayor_suma_30.cpp")
+add_executable(seguridad_hijo.out "seguridad_hijo.cpp")
+
